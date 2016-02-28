@@ -1,0 +1,53 @@
+_repo: The-Journal-of-a-Tour-to-the-Hebrides-with-Samuel-Johnson-LLD_6018
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+description: "The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D. is\
+  \ a travel journal by Scotsman James Boswell first published in 1785. In 1773, Boswell\
+  \ enticed his English friend Samuel Johnson to accompany him on a tour through the\
+  \ highlands and western islands of Scotland. Johnson was then in his mid sixties\
+  \ and well known for his literary works and his Dictionary. The two travellers set\
+  \ out from Edinburgh and skirted the eastern and northeastern coasts of Scotland,\
+  \ passing through St Andrews, Aberdeen and Inverness. They then passed into the\
+  \ highlands and spent several weeks on various islands in the Hebrides, including\
+  \ Skye, Coll, and Mull. After a visit to Boswell's estate at Auchinleck, the travellers\
+  \ returned to Edinburgh. Johnson published his Journey to the Western Islands of\
+  \ Scotland on 18 January 1775.\nIt was widely read, discussed and criticised, especially\
+  \ for some skeptical remarks Johnson made questioning the authenticity of the Ossian\
+  \ poems, which were then all the rage. After Johnson's death in 1784, Boswell published\
+  \ his Journal of a Tour to the Hebrides. This work was based on a diary Boswell\
+  \ had kept during the 1773 tour and included detailed descriptions of where he and\
+  \ Johnson had gone and what Johnson had said.\nThe Journal served as a teaser for\
+  \ the longer biography Boswell was preparing for publication, his Life of Samuel\
+  \ Johnson, which would exhibit the same qualities. Boswell's Journal and Johnson's\
+  \ Journey make an interesting study in contrasts. Johnson considers things philosophically\
+  \ and maintains a high level of generality. Boswell's approach is more anecdotal,\
+  \ even gossipy, and succeeds in large part because of Boswell's keen eye and ear\
+  \ for detail. Both accounts are still widely read and admired today.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6018'
+  wikidata: Q3521446
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hebrides (Scotland) -- Description and travel -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Scotland -- Description and travel -- Early works to 1800'
+- !lcsh 'Boswell, James, 1740-1795 -- Travel -- Scotland -- Hebrides'
+- !lcsh 'Johnson, Samuel, 1709-1784 -- Travel -- Scotland -- Hebrides'
+title: The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D.
+url: http://www.gutenberg.org/ebooks/6018
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Journal_of_a_Tour_to_the_Hebrides
+- https://en.wikipedia.org/wiki/The_Journal_of_a_Tour_to_the_Hebrides
+- https://it.wikipedia.org/wiki/Diario_di_un_viaggio_alle_Ebridi
