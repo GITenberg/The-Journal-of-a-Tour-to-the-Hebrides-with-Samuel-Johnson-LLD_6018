@@ -1,5 +1,8 @@
 _repo: The-Journal-of-a-Tour-to-the-Hebrides-with-Samuel-Johnson-LLD_6018
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boswell, James
@@ -31,6 +34,8 @@ description: "The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D. i
   \ even gossipy, and succeeds in large part because of Boswell's keen eye and ear\
   \ for detail. Both accounts are still widely read and admired today.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6018#The-Journal-of-a-Tour-to-the-Hebrides-with-Samuel-Johnson-LLD
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
