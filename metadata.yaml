@@ -1,5 +1,5 @@
 _repo: The-Journal-of-a-Tour-to-the-Hebrides-with-Samuel-Johnson-LLD_6018
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -51,6 +51,7 @@ subjects:
 - !lcsh 'Scotland -- Description and travel -- Early works to 1800'
 - !lcsh 'Boswell, James, 1740-1795 -- Travel -- Scotland -- Hebrides'
 - !lcsh 'Johnson, Samuel, 1709-1784 -- Travel -- Scotland -- Hebrides'
+- GITenberg
 title: The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D.
 url: http://www.gutenberg.org/ebooks/6018
 wikipedia:
